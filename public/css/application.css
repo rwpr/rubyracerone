@@ -1,0 +1,13 @@
+.racer_table td {
+  background-color: black;
+  height: 100px;
+  width: 100px;
+}
+
+.racer_table #player1_strip td.active  {
+  background-color: green;
+}
+
+.racer_table #player2_strip td.active  {
+  background-color: red;
+}
